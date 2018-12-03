@@ -1,2 +1,2 @@
-# dsgvo-gdpr-plugin
+## dsgvo-gdpr-plugin
 GIDA Elements simple way to include/filter Plugins, Scripts, Fonts,...
