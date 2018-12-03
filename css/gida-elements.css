@@ -1,0 +1,14 @@
+.gida-dummy{cursor:pointer;display:block;background:rgba(43,166,203,.2) url(https://g-i-d-a.de/elements/img/gida.png) center no-repeat;background-size: contain;padding:20px;max-width:100%;min-width:150px;min-height:50px;margin: 0 auto;}
+.gida-dummy.gida-dummy-hidden{display:none;}
+.gida-dummy.gida-dummy-maps{background:rgba(43,166,203,.2) url(https://g-i-d-a.de/elements/img/google-maps.png) center no-repeat;background-size: inherit;}
+.gida-dummy.gida-dummy-gplus{background:rgba(43,166,203,.2) url(https://g-i-d-a.de/elements/img/google-plus.png) center no-repeat;background-size: inherit;}
+.gida-dummy.gida-dummy-youtube{background:rgba(43,166,203,.2) url(https://g-i-d-a.de/elements/img/youtube.png) center no-repeat;background-size: inherit;}
+.gida-dummy.gida-dummy-fb{background:rgba(43,166,203,.2) url(https://g-i-d-a.de/elements/img/fb.png) center no-repeat;background-size: inherit;}
+.gida-dummy.gida-dummy-twitter{background:rgba(43,166,203,.2) url(https://g-i-d-a.de/elements/img/twitter.png) center no-repeat;background-size: inherit;}
+.gida-dummy.gida-dummy-pinterest{background:rgba(43,166,203,.2) url(https://g-i-d-a.de/elements/img/pinterest.png) center no-repeat;background-size: inherit;} 
+.gida-dummy.gida-dummy-small {background-size:cover; min-height:20px;min-width:20px;display: inline-block;margin:auto;padding:0px;}
+
+.gida-text{font-family: Arial,Helvetica;}
+
+#pluginsWebsiteHolder *:last-child { padding-bottom: 20px; }
+#pluginsCheckboxHolder *:last-child { padding-bottom: 20px; }
